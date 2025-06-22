@@ -10,3 +10,6 @@ flaml==2.3.5
 imbalanced-learn==0.13.0
 shap==0.48.0
 statsmodels==0.14.4
+pydotplus==2.0.2
+graphviz==0.20.3
+ipython==9.3.0
